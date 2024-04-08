@@ -1,0 +1,91 @@
+pete:
+	Age: not available
+	Gender: male
+	Race: not available
+
+officer:
+	Name: not available
+	Age: not available
+	Gender: male
+	Race: not available
+
+john:
+	Age: not available
+	Gender: male
+	Race: not available
+	others: Sheriff of Lake Johnson
+
+grandfather:
+	Name: not available
+	Age: not available
+	Gender: male
+	Race: not available
+
+mom:
+	Name: not available
+	Age: not available
+	Gender: female
+	Race: not available
+
+dad:
+	Name: not available
+	Age: not available
+	Gender: male
+	Race: not available
+
+pete's parents:
+	Names: not available
+	Age: not available
+	Gender: Male and Female
+	Race: not available
+
+pete's grandfather:
+	Name: not available
+	Age: not available
+	Gender: Male
+	Race: not available
+
+robert jones:
+	Name: Robert Jones
+	Age: not available
+	Gender: Male
+	Race: Black
+
+cindy johnson:
+	Name: Cindy Johnson
+	Age: not available
+	Gender: Female
+	Race: White
+
+sally:
+	Name: Sally
+	Age: not available
+	Gender: Female
+	Race: not available
+
+andrew:
+	Name: Andrew
+	Age: not available
+	Gender: Male
+	Race: not available
+
+grandpa:
+	Age: not available
+	Gender: Male
+	Race: not available
+
+mike killebrew:
+	Age: 16
+	Gender: Male
+	Race: not available
+
+paul anders:
+	Age: not available
+	Gender: not available
+	Race: not available
+
+bugle trail girl:
+	Age: not available
+	Gender: Female
+	Race: not available
+
